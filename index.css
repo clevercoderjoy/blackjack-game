@@ -7,6 +7,7 @@ body{
     background-size: cover;
     color: goldenrod;
     height: 100vh;
+    overflow: none;
     margin: auto;
     text-shadow: 0 0 5px black;
 }
