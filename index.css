@@ -6,7 +6,6 @@ body{
     background: url(./images/table.png);
     background-size: cover;
     color: goldenrod;
-    max-width: 600px;
     margin: auto;
     text-shadow: 0 0 5px black;
 }
